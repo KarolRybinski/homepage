@@ -8,3 +8,5 @@ A simple page of my favorite bass player.
 - CSS
 - JavaScript
 - BEM convention
+
+## Demo https://karolrybinski.github.io/homepage/
