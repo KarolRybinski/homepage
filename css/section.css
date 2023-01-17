@@ -1,0 +1,42 @@
+.section {
+    list-style-type: square;
+}
+
+.section__headerLists{
+    padding-top: 20px;
+    padding-left: 60px;
+    font-weight: 700;
+}
+
+.section__unorderedLists {
+    padding-left: 80px;
+}
+
+.section__listMusic {
+    padding-left: 60px;
+    font-weight: 700;
+}
+
+.section__listOrdered {
+    padding-left: 60px;
+    line-height: 25px;
+    list-style: none;
+}
+
+.section__button {
+    background: coral;
+    padding: 13px;
+    margin-left: 60px;
+    margin-bottom: 20px;
+}
+
+.section__button:focus {
+    outline: 2px solid #000;
+}
+
+.section__button:hover {
+    background-color: #d86941;
+    border-bottom: 1px solid;
+}
+
+

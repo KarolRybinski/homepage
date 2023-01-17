@@ -1,0 +1,11 @@
+.main {
+    max-width: 960px;
+    background-color: #fff;
+    margin: 10px auto;
+    border: 2px solid red;
+    border-radius: 25px;
+}
+
+.main__heading {
+    padding-left: 60px;
+}

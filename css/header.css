@@ -1,0 +1,29 @@
+.headerSection {
+    font-weight: normal;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+
+.headerSection__linkMenu {
+    padding-left: 50px;
+    padding-bottom: 30px;
+    list-style-type: none;
+    float: left;
+}
+
+.headerSection__linkDec {
+    text-decoration: none;
+    background-color: crimson;
+    color: white;
+    padding: 6px 20px;
+}
+
+.headerSection__linkDec:hover {
+    background-color: darkred;
+    border-bottom: 1px solid;
+}
+
+.headerSection__linkDec:active {
+    color: red;
+}
+

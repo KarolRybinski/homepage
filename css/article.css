@@ -1,0 +1,19 @@
+.article {
+    max-width: 860px;
+    padding: 5px;
+    box-shadow: 1px 1px 8px #ccc;
+    margin: 20px auto;
+}
+
+.article__header {
+    margin-left: 60px;
+    padding-top: 30px;
+
+}
+
+.article__paragraph {
+    margin: 50px;
+    margin-top: 20px;
+    padding: 10px;
+    color: #888;
+}

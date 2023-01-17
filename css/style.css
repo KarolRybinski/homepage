@@ -1,0 +1,65 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+.body {
+    max-width: 960px;
+    margin: 10px auto;
+    font-family: "Roboto", sans-serif;
+    background-color: coral;
+}
+
+.dark {
+    color: #222;
+    background: #222;
+}
+
+.aside {
+    border: 1px solid coral;
+    float: right;
+    margin-right: 50px;
+    padding: 145px 10px;
+    max-width: 230px;
+}
+
+.imageElement {
+    width: 60%;
+    padding-left: 60px;
+}
+
+.container2 {
+    overflow-x: auto;
+}
+
+.orderdList {
+    list-style-type: lower-alpha;
+    padding-left: 40px;
+}
+
+.link {
+    background-color: crimson;
+    color: white;
+    text-decoration: none;
+    padding: 6px 10px;
+}
+
+.link:visited {
+    background-color: blue;
+}
+
+.link:focus {
+    outline: 2px solid black;
+}
+
+.link:hover {
+    background-color: blueviolet;
+    border-bottom: 1px solid;
+}
+
+.link:active {
+    background-color: brown;
+}
